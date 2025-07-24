@@ -9,6 +9,8 @@ CA: CAA1
 Business Partner:
 
 Step 1:
+<img width="940" height="500" alt="image" src="https://github.com/user-attachments/assets/8530186e-c4bd-4e43-8554-a06272f5d399" />
+
 
 Step 2:
 
